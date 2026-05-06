@@ -1,6 +1,6 @@
 # Movie Recommender 6.0
 
-A Streamlit movie recommender app with a Netflix-style UI, movie cards, poster support, streaming badges, social buzz, YouTube trailer links, model metrics, and user ratings.
+
 
 ## Run locally
 
