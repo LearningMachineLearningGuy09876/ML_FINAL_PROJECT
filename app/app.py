@@ -37,7 +37,7 @@ from chatbot import MovieChatbot
 # PAGE CONFIG
 # ----------------------------------------------------------
 st.set_page_config(
-    page_title="Movie Recommender 6.0",
+    page_title="FlikPik",
     page_icon="🎬",
     layout="wide",
 )
