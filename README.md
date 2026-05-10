@@ -1,4 +1,4 @@
-# Movie Recommender 6.0
+# FlikPik -Movie Recommender 
 
 
 
