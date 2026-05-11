@@ -37,7 +37,7 @@ from chatbot import MovieChatbot
 # PAGE CONFIG
 # ----------------------------------------------------------
 st.set_page_config(
-    page_title="FlikPik",
+    page_title="StreamSense",
     page_icon="🎬",
     layout="wide",
 )
@@ -151,7 +151,7 @@ def render_hero():
     st.markdown(
         """
         <div class="hero">
-            <h1>🎬 FlikPik</h1>
+            <h1>🎬 StreamSense</h1>
             <p>Find your next favorite movie with smart recommendations, posters, trailers, and personalized picks.</p>
         </div>
         """,
@@ -488,7 +488,7 @@ def main():
         "📺 Streaming",
         "📱 Social Buzz",
         "▶️ Reviews & Trailers",
-        "🤖 Ask FlikPik",
+        "🤖 Ask&Recieve",
         "👤 Insights",
     ])
 
