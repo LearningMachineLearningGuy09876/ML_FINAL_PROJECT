@@ -152,6 +152,7 @@ def render_hero():
         """
         <div class="hero">
             <h1>🎬 StreamSense</h1>
+             <p>🎬 Powered bh FLikPik AI. </p>
             <p>Find your next favorite movie with smart recommendations, posters, trailers, and personalized picks.</p>
         </div>
         """,
